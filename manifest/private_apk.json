@@ -1,11 +1,11 @@
 {
-    "latest_version_code":  3,
-    "latest_version_name":  "1.2.0",
+    "latest_version_code":  4,
+    "latest_version_name":  "1.2.1",
     "minimum_supported_version_code":  0,
-    "release_notes":  "MaFFy 1.2.0 es la primera versión release firmada. Incluye identidad MaFFy, actualizador integrado y mejoras de estabilidad.",
-    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.2.0/Maffy-1.2.0.apk",
-    "published_at":  "2026-11-03T06:57:08Z",
-    "apk_sha256":  "cdce7a4d741c29caa2c6f55cd0617296d84ddb1c7cae47bd6720adeac7ff6664",
+    "release_notes":  "Versión temporal para probar la detección y actualización segura de MaFFy. No es una distribución general.",
+    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.2.1/Maffy-1.2.1.apk",
+    "published_at":  "2026-11-03T07:00:40Z",
+    "apk_sha256":  "45976431faeeff8903142558848d30f080687ffdffcf0af5f14659cd1642f278",
     "signing_certificate_sha256":  "53225d2e54bec9f06b49a5e909d08af4b99357576db80b2375195d38ed9ba200",
     "package_name":  "com.ntdata.finanzasfamiliares",
     "channel":  "private_apk"
