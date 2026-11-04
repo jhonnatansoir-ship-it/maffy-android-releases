@@ -1,11 +1,11 @@
 {
-    "latest_version_code":  6,
-    "latest_version_name":  "1.3.1",
+    "latest_version_code":  7,
+    "latest_version_name":  "1.4.0",
     "minimum_supported_version_code":  0,
-    "release_notes":  "Mejoras visuales en Apariencia, Calendario y Pagos. Navegacion familiar y preferencias de tema ajustadas.",
-    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.3.1/Maffy-1.3.1.apk",
-    "published_at":  "2026-11-04T04:06:05Z",
-    "apk_sha256":  "e6ad00a100b9dfb7bc6005d86ab5531197794f521b01f1db27c167d36057989f",
+    "release_notes":  "MaFFy 1.4.0 unifica las nueve categorías, incorpora selección jerárquica de compromisos, mejora filtros de reportes y añade el flujo seguro de eliminación familiar por unanimidad con período de recuperación. Incluye correcciones de calendario, pagos y evidencias. Validada con 81 pruebas unitarias, 13 instrumentadas y pruebas funcionales en emulador.",
+    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.4.0/Maffy-1.4.0.apk",
+    "published_at":  "2026-11-04T17:23:26Z",
+    "apk_sha256":  "3390a1ef50b36d62e420fcae49d4c5d4bb2490d715257dee4b4bf0e25a7dbb1f",
     "signing_certificate_sha256":  "53225d2e54bec9f06b49a5e909d08af4b99357576db80b2375195d38ed9ba200",
     "package_name":  "com.ntdata.finanzasfamiliares",
     "channel":  "private_apk"
