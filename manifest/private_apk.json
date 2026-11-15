@@ -1,11 +1,11 @@
 {
-    "latest_version_code":  8,
-    "latest_version_name":  "1.5.0",
-    "minimum_supported_version_code":  0,
-    "release_notes":  "MaFFy 1.5.0 incorpora un video de entrada más breve y mejor integrado. Los compromisos admiten descripción y modalidad de una sola vez; Facturas permite registrar varias facturas en un mismo período. El nuevo módulo familiar Deseos permite compartir artículos con imagen, enlace de compra y precio. La eliminación familiar aprobada por unanimidad se ejecuta al finalizar los siete días de recuperación.",
-    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.5.0/Maffy-1.5.0.apk",
-    "published_at":  "2026-11-15T19:56:06Z",
-    "apk_sha256":  "4d91b4caebea4df92ac185acc6136bd3fa3a3cf2471d43753951df61c34b1cdf",
+    "latest_version_code":  9,
+    "latest_version_name":  "1.6.0",
+    "minimum_supported_version_code":  8,
+    "release_notes":  "Edita deseos ya guardados, elige fechas de emisión y vencimiento para facturas no recurrentes y encuentra los accesos rápidos reorganizados en Inicio.",
+    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.6.0/Maffy-1.6.0.apk",
+    "published_at":  "2026-11-15T22:34:55Z",
+    "apk_sha256":  "43cc2e4e02e6e11a50dae41b4f7b6e0c5526dccb2702694a1ddc19bddc0b44b3",
     "signing_certificate_sha256":  "53225d2e54bec9f06b49a5e909d08af4b99357576db80b2375195d38ed9ba200",
     "package_name":  "com.ntdata.finanzasfamiliares",
     "channel":  "private_apk"
