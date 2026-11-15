@@ -1,11 +1,11 @@
 {
-    "latest_version_code":  7,
-    "latest_version_name":  "1.4.0",
+    "latest_version_code":  8,
+    "latest_version_name":  "1.5.0",
     "minimum_supported_version_code":  0,
-    "release_notes":  "MaFFy 1.4.0 unifica las nueve categorías, incorpora selección jerárquica de compromisos, mejora filtros de reportes y añade el flujo seguro de eliminación familiar por unanimidad con período de recuperación. Incluye correcciones de calendario, pagos y evidencias. Validada con 81 pruebas unitarias, 13 instrumentadas y pruebas funcionales en emulador.",
-    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.4.0/Maffy-1.4.0.apk",
-    "published_at":  "2026-11-04T17:23:26Z",
-    "apk_sha256":  "3390a1ef50b36d62e420fcae49d4c5d4bb2490d715257dee4b4bf0e25a7dbb1f",
+    "release_notes":  "MaFFy 1.5.0 incorpora un video de entrada más breve y mejor integrado. Los compromisos admiten descripción y modalidad de una sola vez; Facturas permite registrar varias facturas en un mismo período. El nuevo módulo familiar Deseos permite compartir artículos con imagen, enlace de compra y precio. La eliminación familiar aprobada por unanimidad se ejecuta al finalizar los siete días de recuperación.",
+    "apk_download_url":  "https://github.com/jhonnatansoir-ship-it/maffy-android-releases/releases/download/v1.5.0/Maffy-1.5.0.apk",
+    "published_at":  "2026-11-15T19:56:06Z",
+    "apk_sha256":  "4d91b4caebea4df92ac185acc6136bd3fa3a3cf2471d43753951df61c34b1cdf",
     "signing_certificate_sha256":  "53225d2e54bec9f06b49a5e909d08af4b99357576db80b2375195d38ed9ba200",
     "package_name":  "com.ntdata.finanzasfamiliares",
     "channel":  "private_apk"
